@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @moremaaz
+- 👋  Hi, I’m maaz
 - 👀  I’m interested in data science and machine learning applications
 - 🌱  I’m currently learning ^
 - 💞️  I’m looking to collaborate on any projects that deal with data
